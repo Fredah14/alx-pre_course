@@ -1,1 +1,1 @@
-“Starting to code today, so cool”
+My first folder containing a bash/alx file
